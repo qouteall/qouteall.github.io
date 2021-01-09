@@ -4,9 +4,18 @@
   "immptl_desc": "See through portals and teleport seamlessly",
   "ip_download": "Download",
   "ip_wiki": "Wiki",
-  "url_ip": "https://raw.githubusercontent.com/wiki/qouteall/ImmersivePortalsMod/%5B%5D-Brief-Introduction.md",
-  "url_ip_features": "https://raw.githubusercontent.com/wiki/qouteall/ImmersivePortalsMod/%5B%5D-Introduce-Features.md",
-  "url_wiki_sidebar": "https://raw.githubusercontent.com/wiki/qouteall/ImmersivePortalsMod/_Sidebar.md",
-  "url_wiki_content_prefix":"https://raw.githubusercontent.com/wiki/qouteall/ImmersivePortalsMod"
-
+  "url_ip": "https://qouteall.fun/imm_ptl_wiki_copy/%5B%5D-Brief-Introduction.md",
+  "url_ip_features": "https://qouteall.fun/imm_ptl_wiki_copy/%5B%5D-Introduce-Features.md",
+  "url_wiki_sidebar": "https://qouteall.fun/imm_ptl_wiki_copy/LeftBar.md",
+  "url_wiki_content_prefix":"https://qouteall.fun/imm_ptl_wiki_copy",
+  "ip_downloads": "Downloads (Fabric version)",
+  "ip_download_desc": "",
+  "ip_or_curseforge": "Or Download from CurseForge",
+  "requires": "Requires ",
+  "Source": "Source",
+  "Immersive Portals": "Immersive Portals",
+  "Immersive Portals Wiki": "Immersive Portals Wiki",
+  "Pages": "Pages",
+  "Contents": "Contents",
+  "image_loading": "Loading Image"
 }

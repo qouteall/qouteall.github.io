@@ -1,3 +1,22 @@
 {
-
+  "main_desc": "...",
+  "immptl": "Immersive Portals Mod for Minecraft",
+  "immptl_desc": "See through portals and teleport seamlessly",
+  "ip_download": "下载",
+  "ip_wiki": "说明书",
+  "url_ip": "https://qouteall.fun/imm_ptl_wiki_copy/zh_cn/%5B%5D-Brief-Introduction.md",
+  "url_ip_features": "https://qouteall.fun/imm_ptl_wiki_copy/zh_cn/%5B%5D-Introduce-Features.md",
+  "url_wiki_sidebar": "https://qouteall.fun/imm_ptl_wiki_copy/zh_cn/Sidebar.md",
+  "url_wiki_content_prefix": "https://qouteall.fun/imm_ptl_wiki_copy/zh_cn",
+  "Features": "特性",
+  "ip_downloads": "下载（Fabric版）",
+  "ip_download_desc": "",
+  "ip_or_curseforge": "CurseForge",
+  "requires": "需要",
+  "Source": "源码",
+  "Immersive Portals": "空间折叠模组",
+  "Immersive Portals Wiki": "空间折叠模组 说明书",
+  "Pages": "页面",
+  "Contents": "条目",
+  "image_loading": "正在加载图片"
 }
