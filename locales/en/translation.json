@@ -11,11 +11,11 @@
   "ip_downloads": "Downloads (Fabric version)",
   "ip_download_desc": "",
   "ip_or_curseforge": "Or Download from CurseForge",
-  "requires": "Requires ",
   "Source": "Source",
   "Immersive Portals": "Immersive Portals",
   "Immersive Portals Wiki": "Immersive Portals Wiki",
   "Pages": "Pages",
   "Contents": "Contents",
-  "image_loading": "Loading Image"
+  "image_loading": "Loading Image",
+  "how_to_install": "How to install this mod"
 }
