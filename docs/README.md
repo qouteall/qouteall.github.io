@@ -13,3 +13,4 @@ Email: qouteall@163.com
 
 [Immersive Portals mod](https://qouteall.fun/immptl/)
 
+[My Notes](https://qouteall.fun/qouteall-blog/)
