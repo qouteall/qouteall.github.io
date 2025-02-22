@@ -1,9 +1,12 @@
 ---
-toc: false
+pageLayout: home
+externalLinkIcon: false
+navbar: false
+config:
+  -
+    type: custom
+    
 ---
-
-![](/images/headerImage.png)
-
 
 ### qouteall
 
@@ -13,4 +16,4 @@ Email: qouteall@163.com
 
 [Immersive Portals mod](https://qouteall.fun/immptl/)
 
-[My Notes](https://qouteall.fun/qouteall-blog/)
+[My Notes](./blog/)
