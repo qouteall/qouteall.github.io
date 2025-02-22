@@ -1,2 +1,7 @@
+User-agent: *
+
+Allow: /
 
 Sitemap: https://qouteall.fun/immptl/sitemap.xml
+
+
